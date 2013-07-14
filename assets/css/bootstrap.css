@@ -53,6 +53,11 @@ section {
   display: block;
 }
 
+footer {
+    margin-top: 20px;
+    padding: 40px;
+}
+
 audio,
 canvas,
 video {
